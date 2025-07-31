@@ -11,6 +11,12 @@
 
 ---
 
+## 📷 Ukážka
+
+<img width="838" height="651" alt="screenshot" src="https://github.com/user-attachments/assets/e8180396-8067-47b3-8382-ae45002b1efd" />
+
+---
+
 ## 🔧 Použité technológie
 
 - HTML5
