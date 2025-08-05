@@ -13,7 +13,8 @@
 
 ## 📷 Ukážka
 
-<img width="838" height="651" alt="screenshot" src="https://github.com/user-attachments/assets/e8180396-8067-47b3-8382-ae45002b1efd" />
+<img width="1346" height="875" alt="image" src="https://github.com/user-attachments/assets/3beccbf2-2c0e-4bb8-8995-c59c2cf31a13" />
+
 
 ---
 
